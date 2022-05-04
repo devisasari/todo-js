@@ -10,11 +10,11 @@ To-do lists are simple yet effective tools that can break down bigger tasks into
 
 There’s a reason why so many people find to-do lists helpful. Let’s take a look at some of the benefits:
 
-•	Improve organization: To-do lists are a great way to organize tasks. From mundane, everyday activities to more difficult and complex tasks, a to-do list helps you structure your workload and organize everything in one location.
-•	Increase focus: When you know what you have to do in the day ahead, you can focus on what needs to be done. If you don’t have a clear picture of what needs to be completed, you might struggle to focus.
-•	Boost productivity: With an increase in focus, you’re likely to see an increase in productivity, too. Why? Because having a to-do list means you’ll spend less time figuring out what you need to do and more time getting things done.
-•	Better prioritization: If you use this to do list, you’ll be able to prioritize tasks based on their level of urgency. That way, you know that you’re completing urgent tasks on time.
-•	Offers a sense of accomplishment: There’s no denying it: ticking items off a list is a good feeling. And what better way to do that than with a to-do list?
+•	Improve organization: To-do lists are a great way to organize tasks. From mundane, everyday activities to more difficult and complex tasks, a to-do list helps you structure your workload and organize everything in one location. <br>
+•	Increase focus: When you know what you have to do in the day ahead, you can focus on what needs to be done. If you don’t have a clear picture of what needs to be completed, you might struggle to focus. <br>
+•	Boost productivity: With an increase in focus, you’re likely to see an increase in productivity, too. Why? Because having a to-do list means you’ll spend less time figuring out what you need to do and more time getting things done. <br>
+•	Better prioritization: If you use this to do list, you’ll be able to prioritize tasks based on their level of urgency. That way, you know that you’re completing urgent tasks on time. <br>
+•	Offers a sense of accomplishment: There’s no denying it: ticking items off a list is a good feeling. And what better way to do that than with a to-do list? <br>
 •	Reduces stress: Using a to-do list to outline your tasks takes a weight off your mind. You know that everything is scheduled into your workweek, putting you in a much clearer headspace to focus on the tasks at hand.
 
 ## When should you create a to-do list?
