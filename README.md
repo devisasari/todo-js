@@ -1,6 +1,6 @@
 # To Do List with JavaScript
 
-### Have you ever forgotten some important things to do? Have you forgotten important moments or anniversaries for your family? Don't worry, use this effective and free task tracker and to do list task manager free to help you manage time and enjoy an easy life.
+Have you ever forgotten some important things to do? Have you forgotten important moments or anniversaries for your family? Don't worry, use this effective and free task tracker and to do list task manager free to help you manage time and enjoy an easy life.
 
 ## What is a to-do list?
 
