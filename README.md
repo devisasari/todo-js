@@ -29,6 +29,6 @@ Ultimately, you should create a to-do list whenever you need to get a handle on 
 
 Here is how it looks:
 
-![SS1](img/look1.png)
-![SS2](img/look2.png)
+!(img/look1.png)
+!(img/look2.png)
 
