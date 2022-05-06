@@ -2,6 +2,15 @@
 
 Have you ever forgotten some important things to do? Have you forgotten important moments or anniversaries for your family? Don't worry, use this effective and free task tracker and to do list task manager free to help you manage time and enjoy an easy life.
 
+### Here is how it looks:
+
+![SS1](images/look1.png)
+![SS2](images/look2.png)
+
+### Also, I enjoyed learning web developing with [Kodluyoruz & Patika](https://app.patika.dev/paths). I'd say check their content out.
+
+# About to do list
+
 ## What is a to-do list?
 
 To-do lists are simple yet effective tools that can break down bigger tasks into smaller, concrete steps. They range from a daily task checklist to outlining all the tasks in an entire project. You can make a to-do list for any project anytime your team needs to get something done. Breaking down tasks into concrete steps helps your team reach your goals with ease.
@@ -24,12 +33,3 @@ Ultimately, you should create a to-do list whenever you need to get a handle on 
 •	If you’re feeling overwhelmed. It can feel pretty overwhelming when you have a lot of work in your schedule and no plan to work through them. This is where creating a to-do list can be useful. Outlining all your tasks and activities in a list can help you visualize when and how you’ll be able to get your work done. You can figure out what capacity you have and when you’re able to complete the tasks. As a result, you’ll stop yourself from feeling too overwhelmed by everything you have to do. <br>
 •	If you want to maximize your time. Planning your tasks and activities helps you be more efficient with your time. Your to-do list outlines everything you need to do, allowing you to focus your time and efforts on the right tasks. You won’t waste time on tasks that aren’t necessary. <br>
 •	If you have a lot of upcoming deadlines. When there are a lot of deadlines on the horizon, some of which might be conflicting, it can get tricky. To make sure you hit these deadlines, you can use a to-do list to schedule your tasks and note all your deadlines. As a result, you’ll have a clear picture of what you need to do and when you need to do it to reach your deadlines.
-
-### Also, I enjoyed learning web developing with [Kodluyoruz & Patika](https://app.patika.dev/paths). I'd say check their content out.
-
-Here is how it looks:
-
-![SS1](images/look1.png)
-![SS2](images/look2.png)
-
-
