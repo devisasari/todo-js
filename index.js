@@ -19,7 +19,7 @@ if (window.localStorage.getItem('visit') != 1) {
 
 // One Time View (End)
 
-// ----------- Add Element (Start)
+// --- Add Element (Start)
 
 function newElement() {
     if (inputDOM.value != "" && inputDOM.value != false) {
@@ -37,9 +37,9 @@ function newElement() {
     
 };
 
-// ----------- Add Element (End)
+// --- Add Element (End)
 
-// ----------- Delete Element (Start)
+// --- Delete Element (Start)
 
 
 function deleteElement(event) { 
@@ -47,16 +47,13 @@ function deleteElement(event) {
     var y = x.parentElement;
     y.parentElement.remove();
     RemoveItemLS(y.parentElement.childNodes[0].firstChild.data);
-    // console.log(x);
-    // console.log(y);
-    // console.log(y.parentElement.childNodes[0].firstChild.data);
   };
 
 
 
-// ----------- Delete Element (End)
+// --- Delete Element (End)
 
-// ----------- Change Background (Start)
+// --- Change Background (Start)
 
 
 function line(event) { 
@@ -73,9 +70,9 @@ function line(event) {
    
   };
 
-// ----------- Change Background (End)
+// --- Change Background (End)
 
-// ----------- Click on Enter (Start)
+// --- Click on Enter (Start)
 
 inputDOM.addEventListener("keyup", function(event) {
     if (event.keyCode === 13) {
@@ -84,9 +81,9 @@ inputDOM.addEventListener("keyup", function(event) {
     }
   });
 
-// ----------- Click on Enter (End)
+// --- Click on Enter (End)
 
-// ----------- Read Local Storage (Start)
+// --- Read Local Storage (Start)
 
 if (window.localStorage.getItem('localStorageIndex')) {
   localStorageIndex = window.localStorage.getItem('localStorageIndex');
@@ -105,7 +102,7 @@ for (let index = 0; index < localStorageIndex; index++) {
   }
 }
 
-// ----------- Read Local Storage (End)
+// --- Read Local Storage (End)
 
 // Add to Local Storage (Start)
 
